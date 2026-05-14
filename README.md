@@ -11,18 +11,6 @@ This full stack appointment booking system can be used by a doctor or a hospital
 
 
 
-# User Dashboard 👤:
-![UI](https://github.com/user-attachments/assets/f953ae81-7cc8-4b6b-8101-c3aa47d0aada)
-
-<br /><hr /><br />
-
-# Doctor Panel 🧑‍⚕️:
-![doctor-panel](https://github.com/user-attachments/assets/ed488e0a-a61a-4cb1-b95a-f19b9135f9b2)
-
-<br /><hr /><br />
-
-# Admin Panel 🎯:
-![admin-panel](https://github.com/user-attachments/assets/5479b3c0-0663-41ec-9fe2-17434249155c)
 
 </div>
 
